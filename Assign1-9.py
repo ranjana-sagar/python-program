@@ -1,0 +1,5 @@
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+quali=input("Enter tour qualification:")
+YOE=int(input("Enter your year of experience:"))
+print('name=',name,',','age=',age,',','quali=',quali,',','YOE=',YOE,'year')
